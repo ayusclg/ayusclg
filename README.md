@@ -12,10 +12,8 @@ Tech Stack
 🛢 Database: MongoDB
 📌 Other Tools: GitHub, Canva
 
-Let's Connect!
-📬 Feel free to reach out on LinkedIn 
 
-You can copy this and update the LinkedIn link with yours. Let me know if you want any modifications! 🚀
+
 
 
 
