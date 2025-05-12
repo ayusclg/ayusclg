@@ -1,9 +1,15 @@
-🚀 Aayush | Code. Build. Innovate.
+👋 Hi, I'm Aayush – an aspiring Full Stack Developer focused on backend development.
 
-💻 Creating powerful web apps
-🔧 Backend wizard – Node.js | Express.js
-⚡ MERN stack enthusiast – MongoDB | React.js
-🎨 Designing with Canva
-🔥 Open to cool projects!
+🛠️ Tech Stack:
+- Backend: Node.js | Express.js | MongoDB | Mongoose
+- Languages: JavaScript | TypeScript
 
-🚀 Let’s build something awesome! ⚡
+🚀 Projects:
+- Blog API with image upload and auth
+- Food Ordering Backend (TypeScript + Express)
+- School Management System (Node + MongoDB)
+- E-learning backend system (in progress)
+
+🌱 I'm passionate about building scalable APIs, writing clean backend logic, and learning industry best practices.
+
+
