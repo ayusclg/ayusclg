@@ -1,26 +1,16 @@
-<!-- Banner Image -->
-![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 
-# Hi, I'm Aayush 👋
-
-Aspiring Full Stack Developer with a strong backend focus.  
-Experienced in Node.js, Express, MongoDB, and TypeScript.  
-Familiar with React basics and passionate about writing clean, scalable APIs.
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+Backend builder.
+React learner.
 
 
-<!-- GitHub Stats -->
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusclg&show_icons=true&theme=radical)
+### 🛠️ Tech Stack
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayusclg&theme=radical)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusclg&layout=compact&theme=radical)
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ayusclg&theme=radical&no-frame=true&margin-w=10)
