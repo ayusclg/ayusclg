@@ -21,4 +21,5 @@ React learner.
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-9F3F00?style=for-the-badge&logo=openssl&logoColor=white)
+[![Passport.js](https://img.shields.io/badge/Passport.js-Authentication-green?logo=passport)](http://www.passportjs.org/)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
