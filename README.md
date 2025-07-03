@@ -3,8 +3,8 @@
 
 
 
-Backend builder.
-React learner.
+Backend builder
+
 
 
 ### 🛠️ Tech Stack
