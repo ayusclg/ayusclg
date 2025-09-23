@@ -1,7 +1,7 @@
 ![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ2bDk2ZXZ2ejBwM2RtY3kyZGg5dHYwdzdjN216bHpweXRiNW85NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UZisxBxkjPwI/giphy.gif)
 
 ### Backend builder  
-currently growing on Go
+
 
 ###  Tech Stack
 
