@@ -6,6 +6,15 @@
 
 ---
 
+## Currently Doing
+<p align="center">
+  <img src="https://img.shields.io/badge/-Learning%20C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br>
+  Shifting to <strong>.NET Core</strong> for building more scalable and powerful backend systems
+</p>
+
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -13,11 +22,13 @@
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -55,4 +66,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
