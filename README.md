@@ -1,7 +1,7 @@
 <h1 align="center">Backend Builder</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-Node.js%20Ecosystem-success?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Developer Badge"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer-💻-success?style=for-the-badge" alt="Backend Developer Badge"/>
 </p>
 
 ---
