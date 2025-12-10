@@ -53,15 +53,5 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
----
-
-##   What I Do
-- Crafting **scalable backend services**  
-- Designing **REST APIs**, auth flows, and real-time features  
-- Building **clean architectures** with TypeScript  
-- Exploring **queues, caching, and distributed processing**  
-- Breaking problems down until they behave like polite functions  
-
----
-
+ 
  
