@@ -1,23 +1,20 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-💻-success?style=for-the-badge" alt="Backend Developer Badge"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer--success?style=for-the-badge" alt="Backend Developer Badge"/>
 </p>
 
 
 
 
----
+
 
  
-
-<!-- Graph -->
-![Aayush's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayusclg&theme=github-dark)
 
 ---
  <h1 align="center">Ｔｕｒｎｉｎｇ　ｃｏｆｆｅｅ　ｉｎｔｏ　ＡＰＩｓ ☕ </h1>
 
 
 
-##   Tech Stack
+## Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -29,6 +26,7 @@
   <!-- Backend Frameworks -->
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Vendure-6C5CE7?style=for-the-badge&logo=v&logoColor=white"/> 
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
